@@ -1,6 +1,8 @@
-# CollegeFootball2019
-Run the page rank algorithm based on 2019 football scores to evaluate the selection committee's rankings<BR>
+# PageRank: College Football Playoff 2019
+Run the page rank algorithm based on 2019 regular season football scores to evaluate the selection committee's rankings<BR>
 Note: the scores were downloaded from here: https://www.sports-reference.com/cfb/years/2019-schedule.html
+
+![](./football.gif)
 
 If you just want to generate the rankings...<br>
   1. download octave (or Matlab if you have it) - https://www.gnu.org/software/octave/download.html <br>
