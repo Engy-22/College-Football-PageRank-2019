@@ -1,5 +1,5 @@
 # CollegeFootball2019
-Run the page rank algorithm based on 2019 football scores to evaluate the selection committee's rankings
+Run the page rank algorithm based on 2019 football scores to evaluate the selection committee's rankings<BR>
 Note: the scores were downloaded from here: https://www.sports-reference.com/cfb/years/2019-schedule.html
 
 If you just want to generate the rankings...<br>
